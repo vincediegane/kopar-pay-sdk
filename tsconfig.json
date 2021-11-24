@@ -10,7 +10,7 @@
     "outDir": "./dist",
     "target": "ESNext",
     "lib": [
-      "ES5",
+      "ESNext",
       "dom"
     ],
     "strict": true,
