@@ -1,0 +1,38 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "removeComments": true,
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "target": "ESNext",
+    "lib": [
+      "ES5",
+      "dom"
+    ],
+    "strict": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "downlevelIteration": true,
+    "declaration": true,
+    "declarationDir": "./typings",
+    "typeRoots": [
+      "src/types.d.ts",
+      "node_modules/@types"
+    ],
+    "paths": {
+      "@/*": ["*"]
+    }
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
