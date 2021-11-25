@@ -1,12 +1,12 @@
 {
-  "name": "kopar-pay",
+  "name": "koparpay",
   "version": "1.0.0",
   "description": "package example to publish to npm",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "author": "vincediegane@gmail.com",
+  "author": "Kopar Express",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^16.11.10",
