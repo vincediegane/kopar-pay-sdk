@@ -74,7 +74,7 @@ koparPay.getTransactionByKoparId('KOPAR_ID_GOES_HERE')
 
 # Documentation
 
-For soon
+Link for the documentation(for soon)
 
 ## Contributors
 
