@@ -1,4 +1,4 @@
-# Kopar Pay API integration![License](https://img.shields.io/npm/l/kopar-pay)![Npm version](https://img.shields.io/npm/v/kopar-pay)![Npm downloads](https://img.shields.io/npm/dm/kopar-pay)
+# Kopar Pay API integration ![License](https://img.shields.io/npm/l/kopar-pay)![Npm version](https://img.shields.io/npm/v/kopar-pay)![Npm downloads](https://img.shields.io/npm/dm/kopar-pay)
 
 You are a large company, an SME, a startup or even a self-employed person and you carry out an online commerce activity or wish to digitize your means of payment, KOPAR PAY is entirely designed for you.
 
