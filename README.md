@@ -4,7 +4,7 @@ You are a large company, an SME, a startup or even a self-employed person and yo
 
 # Installation
 
-`npm i kopar-pay --save`
+`npm i koparpay --save`
 
 # Usage
 
